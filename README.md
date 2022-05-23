@@ -6,99 +6,99 @@ Repositorio para la tercera práctica de Lenguaje de marcas.
 
   Dado el siguiente XML
 
-  <ite nombre="Instituto Tecnológico Edix" web="https://institutotecnologico.edix.com" >
+  <p><ite nombre="Instituto Tecnológico Edix" web="https://institutotecnologico.edix.com" ></p>
 
-                <empresa>Proeduca</empresa>
+               <p> <empresa>Proeduca</empresa></p>
 
-                <telefono>+34 91 787 39 91</telefono>
+              <p>  <telefono>+34 91 787 39 91</telefono></p>
 
-                <profesores>
+              <p>  <profesores></p>
 
-                              <profesor>
+                           <p>   <profesor></p>
 
-                                            <id>1</id>
+                                          <p>  <id>1</id></p>
 
-                                            <nombre>Félix</nombre>
+                                         <p>   <nombre>Félix</nombre></p>
 
-                              </profesor>
+                          <p>    </profesor></p>
 
-                              <profesor>
+                            <p>  <profesor></p>
 
-                                            <id>2</id>
+                                         <p>   <id>2</id></p>
 
-                                            <nombre>Raúl</nombre>
+                                          <p>  <nombre>Raúl</nombre></p>
 
-                              </profesor>
+                          <p>    </profesor></p>
 
-                              <profesor>
+                            <p>  <profesor></p>
 
-                                            <id>3</id>
+                                         <p>   <id>3</id></p>
 
-                                            <nombre>Raquel</nombre>
+                                         <p>   <nombre>Raquel</nombre></p>
 
-                              </profesor>
+                           <p>   </profesor></p>
 
-                              <profesor>
+                            <p>  <profesor></p>
 
-                                            <id>4</id>
+                                        <p>    <id>4</id></p>
 
-                                            <nombre>Tomás</nombre>
+                                       <p>     <nombre>Tomás</nombre></p>
 
-                              </profesor>
+                            <p>  </profesor></p>
 
-                </profesores>
+              <p>  </profesores></p>
 
-                <director>
+              <p>  <director></p>
 
-                              <nombre>Chon</nombre>
+                          <p>    <nombre>Chon</nombre></p>
 
-                              <despacho>Numero 31, 3ª Planta, Edificio A</despacho>
+                          <p>    <despacho>Numero 31, 3ª Planta, Edificio A</despacho></p>
 
-                </director>
+              <p>  </director></p>
 
-                <jefe_estudios>
+              <p>  <jefe_estudios></p>
 
-                              <nombre>Dani</nombre>
+                            <p>  <nombre>Dani</nombre></p>
 
-                              <despacho>Numero 27, 2ª Planta, Edificio B</despacho>
+                            <p>  <despacho>Numero 27, 2ª Planta, Edificio B</despacho></p>
 
-                </jefe_estudios>
+              <p>  </jefe_estudios></p>
 
-                <ciclos>
+             <p>   <ciclos></p>
 
-                              <ciclo id="ASIR">
+               <p>               <ciclo id="ASIR"></p>
 
-                                            <nombre>Administración de Sistemas Informáticos en Red</nombre>
+                                       <p>     <nombre>Administración de Sistemas Informáticos en Red</nombre></p>
 
-                                            <grado>Superior</grado>
+                                       <p>     <grado>Superior</grado></p>
 
-                                            <decretoTitulo año="2009" />
+                                       <p>     <decretoTitulo año="2009" />
 
-                              </ciclo>
+                           <p>   </ciclo></p>
 
-                              <ciclo id="DAW">
+                         <p>     <ciclo id="DAW"></p>
 
-                                            <nombre>Desarrollo de Aplicaciones Web</nombre>
+                                     <p>       <nombre>Desarrollo de Aplicaciones Web</nombre></p>
 
-                                            <grado>Superior</grado>
+                                       <p>     <grado>Superior</grado></p>
 
-                                            <decretoTitulo año="2010" />
+                                       <p>     <decretoTitulo año="2010" /></p>
 
-                              </ciclo>
+                          <p>    </ciclo></p>
 
-                              <ciclo id="DAM">
+                          <p>    <ciclo id="DAM"></p>
 
-                                            <nombre>Desarrollo de Aplicaciones Multiplataforma</nombre>
+                                        <p>    <nombre>Desarrollo de Aplicaciones Multiplataforma</nombre></p>
 
-                                            <grado>Superior</grado>
+                                        <p>    <grado>Superior</grado></p>
 
-                                            <decretoTitulo año="2010" />
+                                       <p>     <decretoTitulo año="2010" /></p>
 
-                              </ciclo>
+                           <p>   </ciclo></p>
 
-                </ciclos>
+             <p>   </ciclos></p>
 
-  </ite>
+<p>  </ite></p>
 
 
 
