@@ -10,7 +10,9 @@ Repositorio para la tercera práctica de Lenguaje de marcas.
 
  <b>Requerimiento 1</b>
 
-  Mediante XSLT y XPATH, crear una página web en HTML y CSS en la que se plasme toda la información del XML. Dicha página web debe contener al menos los siguientes
+  Mediante XSLT y XPATH, crear una página web en HTML y CSS en la que se plasme toda la 
+  información del XML. 
+  Dicha página web debe contener al menos los siguientes
   requisitos
 
   Al menos dos tabla
@@ -22,7 +24,8 @@ Repositorio para la tercera práctica de Lenguaje de marcas.
 
  <b>Requerimiento 2</b>
 
-  Mediante XSLT y XPATH, crear un nuevo documento XML el cual contenga la misma información, pero estructurada de forma diferente. Por ejemplo, poner atributos “id” 
-  como elementos, cambiar el nombre de las etiquetas, combinar valores de etiquetas en una sola, etc.
+  Mediante XSLT y XPATH, crear un nuevo documento XML el cual contenga la misma información, 
+  pero estructurada de forma diferente. Por ejemplo, poner atributos “id”   como elementos, 
+  cambiar el nombre de las etiquetas, combinar valores de etiquetas en una sola, etc.
 </pre>
 
