@@ -95,9 +95,9 @@
                 </form>
             </body>            
             <footer>
-                <p>Empresa: <xsl:value-of select="ite/empresa"/></p>  
+                <p>Empresa: <a href="https://www.grupoproeduca.com/" target="blank"><xsl:value-of select="ite/empresa"/></a></p>  
                 <p>Telefono: <xsl:value-of select="ite/telefono"/></p>  
-                <p>Web: <a href="https://institutotecnologico.edix.com" target="blank"><xsl:value-of select="ite/@web"/></a></p>         
+                <p>Web Edix: <a href="https://institutotecnologico.edix.com" target="blank"><xsl:value-of select="ite/@web"/></a></p>         
             </footer>
 
         </html>
