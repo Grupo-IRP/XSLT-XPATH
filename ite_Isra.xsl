@@ -97,7 +97,7 @@
             <footer>
                 <p>Empresa: <xsl:value-of select="ite/empresa"/></p>  
                 <p>Telefono: <xsl:value-of select="ite/telefono"/></p>  
-                <p>Web: <xsl:value-of select="ite/@web"/></p>                
+                <p>Web: <a href="https://institutotecnologico.edix.com" target="blank"><xsl:value-of select="ite/@web"/></a></p>         
             </footer>
 
         </html>
