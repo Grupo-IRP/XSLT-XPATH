@@ -1,0 +1,59 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+html{
+    background-color: #293462;
+}
+header{
+    background-color: #F24C4C;
+    text-align: center;    
+}
+
+nav{
+    background-color: #EC9B3B;
+    text-align: center;      
+}
+
+nav :hover{
+    background-color:  #eeaf62;
+}
+
+.nav{
+    margin: 15px;
+    color: black;  
+}
+
+
+.lista{
+    background-color: #EC9B3B;
+    padding-left: 30%;
+}
+
+.tabla{
+    background-color: #EC9B3B;
+    padding-left: 30%;
+    padding-bottom: 5px;
+}
+
+th{
+    background-color: #e9a551;
+}
+
+.textoTabla{
+    text-align: center;
+}
+
+form{
+    background-color: #EC9B3B;
+    padding-left: 30%;
+    margin-top: 20px;
+    padding-bottom: 5px;
+}
+fieldset{
+    width: 40%;    
+}
+
+footer{
+    background-color: #F7D716;
+    padding-left: 30px;
+}
