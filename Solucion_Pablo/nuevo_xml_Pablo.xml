@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<delegacion>
+    <nombre>Instituto Tecnologico Edix</nombre>
+    <web>https://institutotecnologico.edix.com</web>
+    <tribu></tribu>
+    <contacto></contacto>
+    <profesorado>
+        <docente identificacion="1">
+            <renombre>Felix</renombre>
+        </docente>
+        <docente identificacion="2">
+            <renombre>Raúl</renombre>
+        </docente>
+        <docente identificacion="3">
+            <renombre>Raquel</renombre>
+        </docente>
+        <docente identificacion="4">
+            <renombre>Tomas</renombre>
+        </docente>
+    </profesorado>
+    <dirigente nombre="Chon">
+        <Ubicacion>Numero 31, 3ª Planta, Edificio A</Ubicacion>
+    </dirigente>
+    <jefe_maestro mote="Dani" ubicacion="Numero 27, 2ª Planta, Edificio B" />
+    <grados>
+        <grado designacion="Administracion de Sistemas Informaticos en Red">
+            <ID>ASIR</ID>
+            <tipo_grado>Superior</tipo_grado>
+            <decreto>2009</decreto>
+        </grado>
+        <grado designacion="Desarrollo de Aplicaciones Web">
+            <ID>DAW</ID>
+            <tipo_grado>Superior</tipo_grado>
+            <decreto>2010</decreto>
+        </grado>
+        <grado designacion="Desarrollo de Aplicaciones Multiplataforma">
+            <ID>DAM</ID>
+            <tipo_grado>Superior</tipo_grado>
+            <decreto>2010</decreto>
+        </grado>
+    </grados>
+</delegacion>

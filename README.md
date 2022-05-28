@@ -5,6 +5,7 @@ Repositorio para la tercera práctica de Lenguaje de marcas.
   <b>Enunciado</b>
 
   Dado el siguiente XML
+  <a href="ite.xml">ite.xml</a>
 
   Realizar las siguientes requerimientos
 
