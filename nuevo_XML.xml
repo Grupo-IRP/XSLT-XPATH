@@ -2,8 +2,8 @@
 <delegacion>
 	<nombre>Instituto Tecnológico Edix</nombre>
 	<web>https://institutotecnologico.edix.com</web>
-	<tribu/>
-	<contacto/>
+	<tribu>Proeduca</tribu>
+	<contacto>+34 91 787 39 91</contacto>
 	<profesorado>
 		<docente identificacion="1">
 			<renombre>Félix</renombre>

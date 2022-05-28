@@ -8,8 +8,8 @@
 <delegacion>
     <nombre><xsl:value-of select="ite/@nombre"/></nombre>
     <web><xsl:value-of select="ite/@web"/></web>
-    <tribu><xsl:value-of select="ite/@empresa"/></tribu>
-    <contacto><xsl:value-of select="ite/@telefono"/></contacto>
+    <tribu><xsl:value-of select="ite/empresa"/></tribu>
+    <contacto><xsl:value-of select="ite/telefono"/></contacto>
     <profesorado>
         <xsl:for-each select="ite/profesores/profesor">
         <docente>
