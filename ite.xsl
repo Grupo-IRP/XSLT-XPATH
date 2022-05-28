@@ -82,23 +82,23 @@
                     <fieldset>
                         <legend><h3>Contacto</h3></legend>
                             <label for="nombre">Nombre: </label>
-                            <input id="nombre" type="text" name="nombre"/>
+                            <input id="nombre" type="text" name="nombre" placeholder="Escribe tu nombre"/>
                             <br/>
                             <br/>
                             <label for="apellidos">Apellidos: </label>
-                            <input id="apellidos" type="text" name="apellidos"/>
+                            <input id="apellidos" type="text" name="apellidos" placeholder="Escribe tus apellidos"/>
                             <br/>
                             <br/>
                             <label for="dni">DNI: </label>
-                            <input id="dni" type="text" name="dni"/>
+                            <input id="dni" type="text" name="dni" placeholder="Escribe tu DNI"/>
                             <br/>
                             <br/>                            
                             <label for="telf">Telefono: </label>
-                            <input id="telf" type="tel" name="telf"/>
+                            <input id="telf" type="tel" name="telf" placeholder="Pon tu nº de teléfono"/>
                             <br/>
                             <br/>
                             <label for="mail">E-mail: </label>
-                            <input id="mail" type="email" name="mail"/>
+                            <input id="mail" type="email" name="mail" placeholder="Pon aquí tu e-mail"/>
                             <br/>
                             <br/>
                             <label for="ciclo">Ciclo que quieres cursar: </label>
